@@ -2,4 +2,4 @@
 
 
 
-![demo](demo.jpg)
+![demo](demo.png)
