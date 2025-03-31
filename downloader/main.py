@@ -27,7 +27,7 @@ conn.close()
 
 
 
-token = "7941633129:AAElRQPa_NsRiWJtmiO5bOGYWaNm94e7MaA"
+token = "YOUR_TOKEN"
 bot = telebot.TeleBot(token , threaded=True ,num_threads=5)
 
 
